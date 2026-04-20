@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**itsneruta/itsneruta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nathalie (Neruta), a Norwegian IT student and part-time developer.
 
-Here are some ideas to get you started:
+Currently working in the industry and continuing as an intern next year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in software development and game development.
+
+Tech stack: C#, .NET / ASP.NET, Blazor, gRPC, SQL, Unity, XAML
+
+Working on a mix of software projects (web, applications) and a visual novel game in Unity.
+
+🐱 Cat owner (Taro) | 🎮 Game dev | 🎥 Cinematography 
+📚 Novels & manhwas | 🥋 Karate background (7 yrs) | 🚫☕
+
+Reach me
+Discord: nerutaa
