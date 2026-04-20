@@ -3,6 +3,7 @@
 I'm Neruta, an IT student and part-time developer based in Norway.
 
 I work with a mix of software development and game development.
+
 Currently working in the industry and continuing as an intern next year.
 
 This is my main profile where I share projects, experiments, and things I’m building! 
