@@ -11,7 +11,9 @@ Tech stack: C#, .NET / ASP.NET, Blazor, gRPC, SQL, Unity, XAML
 Working on a mix of software projects (web, applications) and a visual novel game in Unity.
 
 🐱 Cat owner (Taro) | 🎮 Game dev | 🎥 Cinematography 
+
 📚 Novels & manhwas | 🥋 Karate background (7 yrs) | 🚫☕
 
 Reach me
+
 Discord: nerutaa
