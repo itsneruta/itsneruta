@@ -1,4 +1,4 @@
-## Hello there 👋
+## Heya there 👋
 
 I'm Neruta, an IT student and part-time developer based in Norway.
 
