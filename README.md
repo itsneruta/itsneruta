@@ -11,7 +11,7 @@ This is my main profile where I share projects, experiments, and things I’m bu
 ### Tools & Tech
 * **Languages:** C#, SQL, HTML, CSS
 * **Frameworks:** .NET / ASP.NET
-* **Game Dev:** Unity
+* **Game Dev:** Godot & Unity
 * **Tools:** Git, Visual Studio, gRPC, XAML
 * **Design & Creative:** Figma
 * **Planning:** Miro & sequence diagrams
