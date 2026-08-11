@@ -2,7 +2,7 @@
 
 I'm Neruta, an IT student and part-time developer based in Norway.
 
-I work with a mixture of both software and game development! Currently employed in the industry, and continuing as a full-time intern next year.
+I work with a mixture of both software and game development! Currently employed in the industry. 
 
 This is my main profile where I share projects, experiments, and things I’m building! 
 
